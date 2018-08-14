@@ -17,7 +17,6 @@
 <!-- .slide: data-background-image="img/autorite.JPG" -->
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/AnneARchetTwitter.png" -->
-<!-- .slide: class="hover"-->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/AnneARchetTwitter.png" -->
 <!-- .slide: class="hover"-->
