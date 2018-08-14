@@ -18,6 +18,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/ArchetPoupee.png" -->
 <!-- .slide: class="hover"-->
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/ArchetPoupee.png" -->
+<!-- .slide: class="hover"-->
 
 ### Twitterature
 - Twitter as poetry
